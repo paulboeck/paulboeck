@@ -9,6 +9,7 @@ I'm a Java developer with over 25 years of experience creating high-quality soft
 - Utilize DevOps methodologies and tools to automate deployments and improve software quality
 - Implement serverless architectures using AWS Lambda and other AWS services
 - Provide technical leadership, mentorship, and coaching to development teams
+- Write about AWS services and other programming topics on [Medium](https://medium.com/@paulboeck)
 
 ## Skills
 
