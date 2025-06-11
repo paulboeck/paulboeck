@@ -14,15 +14,11 @@ I'm a Java developer with over 25 years of experience creating high-quality soft
 ## Skills
 
 - Java, Spring Boot, Hibernate, JPA
-- AWS Services (EC2, S3, Lambda, DynamoDB, RDS, etc.)
+- AWS Services (ECS, S3, Lambda, OpenSearch, Elasticache, RDS, etc.)
 - RESTful APIs, Microservices, Design Patterns
-- DevOps tools (Jenkins, GitHub Actions, Terraform, CloudWatch, AWS SAM, etc.)
+- DevOps tools (Jenkins, GitHub Actions, Terraform, Cloudformaation, AWS SAM, etc.)
 - Agile methodologies (Scrum, Kanban)
-- Relational and NoSQL databases
-
-## Projects
-
-- [Weather Tracker (Java/Lambda/RDS)](https://github.com/paulboeck/weather-tracker-java-lambda-rds): A Java-based Spring Boot AWS Lambda that integrates with AWS RDS to store weather information gathered from a public weather data API.
+- Relational databases (MySQL, Oracle)
 
 ## Contact Me
 
